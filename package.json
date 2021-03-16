@@ -1,0 +1,26 @@
+{
+  "name": "socketjsonp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whlysu/websocketjsonp.git"
+  },
+  "keywords": [
+    "socket",
+    "jsonp"
+  ],
+  "author": "whlysu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whlysu/websocketjsonp/issues"
+  },
+  "homepage": "https://github.com/whlysu/websocketjsonp#readme",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
